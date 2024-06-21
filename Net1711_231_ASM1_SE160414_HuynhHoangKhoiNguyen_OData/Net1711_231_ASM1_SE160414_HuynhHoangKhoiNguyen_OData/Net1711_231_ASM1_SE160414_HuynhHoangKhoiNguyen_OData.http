@@ -1,0 +1,6 @@
+@Net1711_231_ASM1_SE160414_HuynhHoangKhoiNguyen_OData_HostAddress = http://localhost:5268
+
+GET {{Net1711_231_ASM1_SE160414_HuynhHoangKhoiNguyen_OData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
